@@ -10,7 +10,7 @@ public class Solution {
     int bitSize, seriesOfOps;
     String Operation ="";
     int set1, set2;
-    
+    //test
     bitSize = sc.nextInt();
     seriesOfOps = sc.nextInt();
     sc.nextLine();
